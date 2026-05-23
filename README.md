@@ -12,7 +12,6 @@ A comprehensive AI-powered web application that provides intelligent crop recomm
 - **SMS Notifications**: Automated alerts for weather events, market changes, and farming reminders
 
 ### Technical Features
-- **Multilingual Support**: English, Hindi, and Telugu interfaces
 - **Mobile-First Design**: Responsive UI optimized for farmers
 - **Real-time Data**: Integration with external APIs for soil and weather data
 - **Machine Learning**: Trained models for crop recommendations and image classification
