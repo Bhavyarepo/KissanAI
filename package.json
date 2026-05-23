@@ -1,0 +1,22 @@
+{
+  "name": "sih---ps---25030-main",
+  "version": "1.0.0",
+  "description": "A comprehensive AI-powered web application that provides intelligent crop recommendations, pest/disease detection, market insights, and farmer advisory services to help maximize agricultural yield and profits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "http-proxy-middleware": "^4.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "pg": "^8.21.0"
+  }
+}

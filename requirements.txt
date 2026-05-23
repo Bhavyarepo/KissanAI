@@ -1,0 +1,26 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+scikit-learn
+tensorflow
+pandas
+numpy
+requests
+pillow
+twilio
+python-dotenv
+alembic
+pytest
+pytest-asyncio
+
+# ML/DS extras
+lightgbm
+xgboost
+transformers
+prophet
+joblib
+kaggle

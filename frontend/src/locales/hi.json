@@ -1,0 +1,228 @@
+{
+  "app": {
+    "title": "KissanAi"
+  },
+  "nav": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "recommendations": "सिफारिशें",
+    "detection": "पहचान",
+    "market": "बाजार",
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "logout": "लॉगआउट"
+  },
+  "home": {
+    "hero": {
+      "title": "AI-संचालित फसल सिफारिश प्रणाली",
+      "subtitle": "बुद्धिमान फसल सिफारिशें प्राप्त करें, कीट और रोगों का पता लगाएं, और अपनी कृषि उपज और मुनाफे को अधिकतम करने के लिए बाजार की जानकारी तक पहुंचें।",
+      "getStarted": "शुरू करें",
+      "login": "लॉगिन"
+    },
+    "features": {
+      "title": "मुख्य विशेषताएं",
+      "cropRecommendation": {
+        "title": "स्मार्ट फसल सिफारिशें",
+        "description": "मिट्टी, मौसम और स्थान डेटा के आधार पर AI-संचालित फसल सुझाव प्राप्त करें।"
+      },
+      "detection": {
+        "title": "कीट और रोग पहचान",
+        "description": "उपचार सिफारिशों के साथ तुरंत कीट और रोगों की पहचान के लिए छवियां अपलोड करें।"
+      },
+      "market": {
+        "title": "बाजार बुद्धिमत्ता",
+        "description": "सूचित बिक्री निर्णय लेने के लिए रियल-टाइम बाजार मूल्य और रुझान तक पहुंचें।"
+      }
+    },
+    "howItWorks": {
+      "title": "यह कैसे काम करता है",
+      "step1": {
+        "title": "रजिस्टर करें और स्थान सेट करें",
+        "description": "अपना खाता बनाएं और अपने कृषि स्थान का विवरण प्रदान करें।"
+      },
+      "step2": {
+        "title": "सिफारिशें प्राप्त करें",
+        "description": "AI-संचालित फसल और उर्वरक सिफारिशें प्राप्त करें।"
+      },
+      "step3": {
+        "title": "निगरानी और पहचान",
+        "description": "अपनी फसलों में कीट और रोगों का पता लगाने के लिए छवियां अपलोड करें।"
+      },
+      "step4": {
+        "title": "बाजार अंतर्दृष्टि",
+        "description": "बेहतर बिक्री निर्णयों के लिए बाजार मूल्य और रुझान तक पहुंचें।"
+      }
+    },
+    "cta": {
+      "title": "अपनी खेती को बदलने के लिए तैयार हैं?",
+      "description": "हजारों किसानों के साथ जुड़ें जो पहले से ही अपनी फसल उपज और मुनाफे में सुधार के लिए AI का उपयोग कर रहे हैं।",
+      "button": "अपनी यात्रा शुरू करें"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "अपने खाते में साइन इन करें",
+      "subtitle": "अपने डैशबोर्ड तक पहुंचने के लिए अपनी साख दर्ज करें",
+      "noAccount": "खाता नहीं है?",
+      "loggingIn": "साइन इन हो रहे हैं..."
+    },
+    "register": {
+      "title": "अपना खाता बनाएं",
+      "subtitle": "स्मार्ट किसानों के हमारे समुदाय में शामिल हों",
+      "haveAccount": "पहले से खाता है?",
+      "success": "रजिस्ट्रेशन सफल! लॉगिन पर रीडायरेक्ट हो रहे हैं...",
+      "registering": "खाता बनाया जा रहा है..."
+    },
+    "name": "पूरा नाम",
+    "namePlaceholder": "अपना पूरा नाम दर्ज करें",
+    "email": "ईमेल पता",
+    "emailPlaceholder": "अपना ईमेल दर्ज करें",
+    "phone": "फोन नंबर",
+    "phonePlaceholder": "अपना फोन नंबर दर्ज करें",
+    "location": "स्थान",
+    "locationPlaceholder": "अपना स्थान दर्ज करें",
+    "state": "राज्य",
+    "selectState": "अपना राज्य चुनें",
+    "district": "जिला",
+    "districtPlaceholder": "अपना जिला दर्ज करें",
+    "village": "गांव",
+    "villagePlaceholder": "अपना गांव दर्ज करें (वैकल्पिक)",
+    "optional": "वैकल्पिक",
+    "password": "पासवर्ड",
+    "passwordPlaceholder": "अपना पासवर्ड दर्ज करें",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "confirmPasswordPlaceholder": "अपने पासवर्ड की पुष्टि करें",
+    "login": {
+      "button": "साइन इन"
+    },
+    "register": {
+      "button": "खाता बनाएं"
+    }
+  },
+  "dashboard": {
+    "welcome": "वापस स्वागत है, {name}!",
+    "location": "स्थान: {location}, {state}",
+    "quickActions": "त्वरित कार्य",
+    "getRecommendations": "सिफारिशें प्राप्त करें",
+    "getRecommendationsDesc": "AI-संचालित फसल सुझाव प्राप्त करें",
+    "detectPestDisease": "कीट और रोग पहचानें",
+    "detectPestDiseaseDesc": "तुरंत पहचान के लिए छवियां अपलोड करें",
+    "marketPrices": "बाजार मूल्य",
+    "marketPricesDesc": "वर्तमान बाजार दरें देखें",
+    "notifications": "सूचनाएं",
+    "notificationsDesc": "अपने अलर्ट और अनुस्मारक प्रबंधित करें",
+    "recentRecommendations": "हाल की सिफारिशें",
+    "noRecommendations": "अभी तक कोई सिफारिश नहीं। फसल सिफारिशों का अनुरोध करके शुरुआत करें!",
+    "confidence": "विश्वसनीयता",
+    "expectedProfit": "अपेक्षित लाभ",
+    "weatherInfo": "मौसम की जानकारी",
+    "temperature": "तापमान",
+    "humidity": "आर्द्रता",
+    "rainfall": "वर्षा",
+    "condition": "स्थिति",
+    "noWeatherData": "कोई मौसम डेटा उपलब्ध नहीं"
+  },
+  "recommendations": {
+    "title": "फसल सिफारिशें",
+    "getRecommendations": "सिफारिशें प्राप्त करें",
+    "season": "मौसम",
+    "selectSeason": "मौसम चुनें",
+    "kharif": "खरीफ",
+    "rabi": "रबी",
+    "summer": "गर्मी",
+    "location": "स्थान",
+    "locationPlaceholder": "अपना स्थान दर्ज करें",
+    "state": "राज्य",
+    "selectState": "राज्य चुनें",
+    "getting": "सिफारिशें मिल रही हैं...",
+    "results": "सिफारिश परिणाम",
+    "confidence": "विश्वसनीयता",
+    "expectedYield": "अपेक्षित उपज",
+    "expectedProfit": "अपेक्षित लाभ",
+    "sustainability": "स्थिरता",
+    "fertilizer": "उर्वरक सिफारिश",
+    "history": "सिफारिश इतिहास",
+    "crop": "फसल",
+    "yield": "उपज",
+    "profit": "लाभ",
+    "date": "तारीख"
+  },
+  "detection": {
+    "title": "कीट और रोग पहचान",
+    "pestDetection": "कीट पहचान",
+    "diseaseDetection": "रोग पहचान",
+    "uploadPestImage": "कीट छवि अपलोड करें",
+    "uploadDiseaseImage": "रोग छवि अपलोड करें",
+    "clickToUpload": "छवि अपलोड करने के लिए क्लिक करें",
+    "detectPest": "कीट पहचानें",
+    "detectDisease": "रोग पहचानें",
+    "detecting": "पहचान हो रही है...",
+    "results": "पहचान परिणाम",
+    "detected": "पहचाना गया",
+    "confidence": "विश्वसनीयता",
+    "severity": "गंभीरता",
+    "treatment": "अनुशंसित उपचार",
+    "history": "पहचान इतिहास"
+  },
+  "market": {
+    "title": "बाजार बुद्धिमत्ता",
+    "searchPrices": "फसल मूल्य खोजें",
+    "enterCropName": "फसल का नाम दर्ज करें",
+    "searching": "खोज रहे हैं...",
+    "search": "खोजें",
+    "recommendations": "बाजार सिफारिशें",
+    "crop": "फसल",
+    "averagePrice": "औसत मूल्य",
+    "trend": "मूल्य रुझान",
+    "bestMarkets": "सर्वोत्तम बाजार",
+    "trends": "बाजार रुझान",
+    "currentPrice": "वर्तमान मूल्य",
+    "dataPoints": "डेटा बिंदु"
+  },
+  "notifications": {
+    "title": "सूचनाएं",
+    "sendNotification": "सूचना भेजें",
+    "message": "संदेश",
+    "messagePlaceholder": "अपना संदेश दर्ज करें",
+    "type": "प्रकार",
+    "selectType": "प्रकार चुनें",
+    "weather": "मौसम",
+    "market": "बाजार",
+    "reminder": "अनुस्मारक",
+    "priority": "प्राथमिकता",
+    "low": "कम",
+    "medium": "मध्यम",
+    "high": "उच्च",
+    "sending": "भेजा जा रहा है...",
+    "send": "भेजें",
+    "quickAlerts": "त्वरित अलर्ट",
+    "rainAlert": "वर्षा अलर्ट",
+    "rainAlertDesc": "किसानों को वर्षा चेतावनी भेजें",
+    "droughtAlert": "सूखा अलर्ट",
+    "droughtAlertDesc": "किसानों को सूखा चेतावनी भेजें",
+    "stormAlert": "तूफान अलर्ट",
+    "stormAlertDesc": "किसानों को तूफान चेतावनी भेजें",
+    "marketAlert": "बाजार अलर्ट",
+    "marketAlertDesc": "बाजार मूल्य अपडेट भेजें",
+    "history": "सूचना इतिहास",
+    "sent": "भेजा गया",
+    "notSent": "नहीं भेजा गया",
+    "noNotifications": "अभी तक कोई सूचना नहीं"
+  },
+  "footer": {
+    "company": "AI फसल प्रणाली",
+    "description": "बेहतर उपज और सतत खेती के लिए AI-संचालित कृषि समाधानों के साथ किसानों को सशक्त बनाना।",
+    "quickLinks": "त्वरित लिंक",
+    "support": "सहायता",
+    "help": "सहायता केंद्र",
+    "contact": "संपर्क करें",
+    "privacy": "गोपनीयता नीति",
+    "address": "123 फार्म स्ट्रीट, कृषि शहर, AC 12345",
+    "rights": "सभी अधिकार सुरक्षित।"
+  }
+}
+
+
+
+
+

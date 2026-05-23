@@ -1,0 +1,228 @@
+{
+  "app": {
+    "title": "KissanAi"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "recommendations": "Recommendations",
+    "detection": "Detection",
+    "market": "Market",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "AI-Powered Crop Recommendation System",
+      "subtitle": "Get intelligent crop recommendations, detect pests and diseases, and access market insights to maximize your agricultural yield and profits.",
+      "getStarted": "Get Started",
+      "login": "Login"
+    },
+    "features": {
+      "title": "Key Features",
+      "cropRecommendation": {
+        "title": "Smart Crop Recommendations",
+        "description": "Get AI-powered crop suggestions based on soil, weather, and location data."
+      },
+      "detection": {
+        "title": "Pest & Disease Detection",
+        "description": "Upload images to instantly identify pests and diseases with treatment recommendations."
+      },
+      "market": {
+        "title": "Market Intelligence",
+        "description": "Access real-time market prices and trends to make informed selling decisions."
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Register & Set Location",
+        "description": "Create your account and provide your farming location details."
+      },
+      "step2": {
+        "title": "Get Recommendations",
+        "description": "Receive AI-powered crop and fertilizer recommendations."
+      },
+      "step3": {
+        "title": "Monitor & Detect",
+        "description": "Upload images to detect pests and diseases in your crops."
+      },
+      "step4": {
+        "title": "Market Insights",
+        "description": "Access market prices and trends for better selling decisions."
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Farming?",
+      "description": "Join thousands of farmers who are already using AI to improve their crop yields and profits.",
+      "button": "Start Your Journey"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Sign in to your account",
+      "subtitle": "Enter your credentials to access your dashboard",
+      "noAccount": "Don't have an account?",
+      "loggingIn": "Signing in..."
+    },
+    "register": {
+      "title": "Create your account",
+      "subtitle": "Join our community of smart farmers",
+      "haveAccount": "Already have an account?",
+      "success": "Registration successful! Redirecting to login...",
+      "registering": "Creating account..."
+    },
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "location": "Location",
+    "locationPlaceholder": "Enter your location",
+    "state": "State",
+    "selectState": "Select your state",
+    "district": "District",
+    "districtPlaceholder": "Enter your district",
+    "village": "Village",
+    "villagePlaceholder": "Enter your village (optional)",
+    "optional": "Optional",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "login": {
+      "button": "Sign In"
+    },
+    "register": {
+      "button": "Create Account"
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back, {name}!",
+    "location": "Location: {location}, {state}",
+    "quickActions": "Quick Actions",
+    "getRecommendations": "Get Recommendations",
+    "getRecommendationsDesc": "Get AI-powered crop suggestions",
+    "detectPestDisease": "Detect Pests & Diseases",
+    "detectPestDiseaseDesc": "Upload images for instant detection",
+    "marketPrices": "Market Prices",
+    "marketPricesDesc": "Check current market rates",
+    "notifications": "Notifications",
+    "notificationsDesc": "Manage your alerts and reminders",
+    "recentRecommendations": "Recent Recommendations",
+    "noRecommendations": "No recommendations yet. Get started by requesting crop recommendations!",
+    "confidence": "Confidence",
+    "expectedProfit": "Expected Profit",
+    "weatherInfo": "Weather Information",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "rainfall": "Rainfall",
+    "condition": "Condition",
+    "noWeatherData": "No weather data available"
+  },
+  "recommendations": {
+    "title": "Crop Recommendations",
+    "getRecommendations": "Get Recommendations",
+    "season": "Season",
+    "selectSeason": "Select season",
+    "kharif": "Kharif",
+    "rabi": "Rabi",
+    "summer": "Summer",
+    "location": "Location",
+    "locationPlaceholder": "Enter your location",
+    "state": "State",
+    "selectState": "Select state",
+    "getting": "Getting recommendations...",
+    "results": "Recommendation Results",
+    "confidence": "Confidence",
+    "expectedYield": "Expected Yield",
+    "expectedProfit": "Expected Profit",
+    "sustainability": "Sustainability",
+    "fertilizer": "Fertilizer Recommendation",
+    "history": "Recommendation History",
+    "crop": "Crop",
+    "yield": "Yield",
+    "profit": "Profit",
+    "date": "Date"
+  },
+  "detection": {
+    "title": "Pest & Disease Detection",
+    "pestDetection": "Pest Detection",
+    "diseaseDetection": "Disease Detection",
+    "uploadPestImage": "Upload Pest Image",
+    "uploadDiseaseImage": "Upload Disease Image",
+    "clickToUpload": "Click to upload an image",
+    "detectPest": "Detect Pest",
+    "detectDisease": "Detect Disease",
+    "detecting": "Detecting...",
+    "results": "Detection Results",
+    "detected": "Detected",
+    "confidence": "Confidence",
+    "severity": "Severity",
+    "treatment": "Recommended Treatment",
+    "history": "Detection History"
+  },
+  "market": {
+    "title": "Market Intelligence",
+    "searchPrices": "Search Crop Prices",
+    "enterCropName": "Enter crop name",
+    "searching": "Searching...",
+    "search": "Search",
+    "recommendations": "Market Recommendations",
+    "crop": "Crop",
+    "averagePrice": "Average Price",
+    "trend": "Price Trend",
+    "bestMarkets": "Best Markets",
+    "trends": "Market Trends",
+    "currentPrice": "Current Price",
+    "dataPoints": "Data Points"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "sendNotification": "Send Notification",
+    "message": "Message",
+    "messagePlaceholder": "Enter your message",
+    "type": "Type",
+    "selectType": "Select type",
+    "weather": "Weather",
+    "market": "Market",
+    "reminder": "Reminder",
+    "priority": "Priority",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "sending": "Sending...",
+    "send": "Send",
+    "quickAlerts": "Quick Alerts",
+    "rainAlert": "Rain Alert",
+    "rainAlertDesc": "Send rain warning to farmers",
+    "droughtAlert": "Drought Alert",
+    "droughtAlertDesc": "Send drought warning to farmers",
+    "stormAlert": "Storm Alert",
+    "stormAlertDesc": "Send storm warning to farmers",
+    "marketAlert": "Market Alert",
+    "marketAlertDesc": "Send market price updates",
+    "history": "Notification History",
+    "sent": "Sent",
+    "notSent": "Not Sent",
+    "noNotifications": "No notifications yet"
+  },
+  "footer": {
+    "company": "AI Crop System",
+    "description": "Empowering farmers with AI-driven agricultural solutions for better yields and sustainable farming.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "help": "Help Center",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "address": "123 Farm Street, Agriculture City, AC 12345",
+    "rights": "All rights reserved."
+  }
+}
+
+
+
+
+

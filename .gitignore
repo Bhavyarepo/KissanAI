@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Python Virtual Environment
+venv/
+backend/venv/
+
+# Environment variables (SECRETS)
+.env
+backend/.env
+frontend/.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+backend/__pycache__/
+backend/routers/__pycache__/
+
+# Database files
+farmers.db
+*.sqlite3
+
+# Log files
+*.log
+backend_server.log
+backend_err.log
+backend_out.log
+
+# Uploaded media
+backend/uploads/
+uploads/
+
+# IDE files
+.vscode/
+.idea/
