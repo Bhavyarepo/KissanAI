@@ -351,13 +351,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vue.js** and **FastAPI** communities
 - **TensorFlow** and **scikit-learn** for ML capabilities
 
-## 📞 Support
-
-For support and questions:
-- **Email**: support@aicrop.com
-- **Documentation**: [Project Wiki](wiki-url)
-- **Issues**: [GitHub Issues](issues-url)
-
 ## 🔮 Future Roadmap
 
 ### Phase 1 (Current)
@@ -365,7 +358,6 @@ For support and questions:
 - ✅ Pest/disease detection
 - ✅ Market price tracking
 - ✅ Weather monitoring
-- ✅ SMS notifications
 
 ### Phase 2 (Next 3 months)
 - [ ] Advanced ML models with more training data
